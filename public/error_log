@@ -1,0 +1,16 @@
+[30-Aug-2020 09:05:14 UTC] PHP Warning:  Uncaught ErrorException: require(/home/lr1ljycovr7o/public_html/meat-empire/routes/web.php): failed to open stream: No such file or directory in /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/lr1ljycov...', 35, Array)
+#1 /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Routing\RouteFileRegistrar->register('/home/lr1ljycov...')
+#3 /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/Router.php(374): Illuminate\Routing\Router->loadRoutes('/home/lr1ljycov...')
+#4 /home/lr1ljycovr7o/p in /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[30-Aug-2020 09:05:14 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/lr1ljycovr7o/public_html/meat-empire/routes/web.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[30-Aug-2020 09:05:24 UTC] PHP Warning:  Uncaught ErrorException: require(/home/lr1ljycovr7o/public_html/meat-empire/routes/web.php): failed to open stream: No such file or directory in /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/l...', '/home/lr1ljycov...', 35, Array)
+#1 /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/Router.php(417): Illuminate\Routing\RouteFileRegistrar->register('/home/lr1ljycov...')
+#3 /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/Router.php(374): Illuminate\Routing\Router->loadRoutes('/home/lr1ljycov...')
+#4 /home/lr1ljycovr7o/p in /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[30-Aug-2020 09:05:24 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/lr1ljycovr7o/public_html/meat-empire/routes/web.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lr1ljycovr7o/public_html/meat-empire/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35

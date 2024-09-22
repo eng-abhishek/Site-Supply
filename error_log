@@ -1,0 +1,6 @@
+[23-Mar-2021 07:32:35 UTC] PHP Warning:  require(/home/cbxd5wjom3zc/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/cbxd5wjom3zc/public_html/index.php on line 24
+[23-Mar-2021 07:32:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/cbxd5wjom3zc/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cbxd5wjom3zc/public_html/index.php on line 24
+[23-Mar-2021 07:32:38 UTC] PHP Warning:  require(/home/cbxd5wjom3zc/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/cbxd5wjom3zc/public_html/index.php on line 24
+[23-Mar-2021 07:32:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/cbxd5wjom3zc/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cbxd5wjom3zc/public_html/index.php on line 24
+[23-Mar-2021 07:33:09 UTC] PHP Warning:  require(/home/cbxd5wjom3zc/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/cbxd5wjom3zc/public_html/index.php on line 24
+[23-Mar-2021 07:33:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/cbxd5wjom3zc/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cbxd5wjom3zc/public_html/index.php on line 24
